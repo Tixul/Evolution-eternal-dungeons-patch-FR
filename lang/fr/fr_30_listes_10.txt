@@ -1,0 +1,4 @@
+# Evolution: Eternal Dungeons - traduction française (adresses = ROM européenne, CPU).
+# =ADRESSE : texte du catalogue (tools/extraire.py) ; @ADRESSE : chaîne entière jusqu'au 00.
+# / = ligne suivante, | = boîte suivante, {xx} = code brut. Règles : FORMAT.md.
+=3A7E0D	HÉ, ATTENDS!

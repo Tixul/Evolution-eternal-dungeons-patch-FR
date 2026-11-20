@@ -1,0 +1,14 @@
+# Evolution: Eternal Dungeons - traduction française (adresses = ROM européenne, CPU).
+# =ADRESSE : texte du catalogue (tools/extraire.py) ; @ADRESSE : chaîne entière jusqu'au 00.
+# / = ligne suivante, | = boîte suivante, {xx} = code brut. Règles : FORMAT.md.
+=3D8823	PARLER À LINEAR./
+=3D8837	PARLER À GRE./
+=3D8848	PARLER À CHAIN./
+=3D885B	PARLER À PEPPER./
+=3E762A	UTILISER OU JETER/DES OBJETS./
+=3E764A	ÉQUIPER OU RETIRER/L'ÉQUIPEMENT./
+=3E766F	APPRENDRE DES/TECHNIQUES/SPÉCIALES./
+=3E7693	CONSULTER LE/STATUT./
+=3E76AF	CHANGER L'ORDRE DE/L'ÉQUIPE OU LA/SÉPARER./
+=3E76E3	PARLER AUX MEMBRES/DE L'ÉQUIPE./
+=3E7706	SAUVEGARDER LA/PARTIE./
